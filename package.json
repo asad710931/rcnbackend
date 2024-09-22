@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.21.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.5"
+  },
+  "name": "rcnbackend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asad710931/rcnbackend.git"
+  },
+  "author": "asad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asad710931/rcnbackend/issues"
+  },
+  "homepage": "https://github.com/asad710931/rcnbackend#readme",
+  "description": ""
+}
